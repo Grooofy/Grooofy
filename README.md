@@ -4,11 +4,18 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Grooofy&label=PR0F1LE+V1EWS&style=plastic-square&color=blueviolet" alt=""/>
-  <h1>
+ </div>
+  <h1 align="center">
     I'm GameDeveloper
-    <img src="https://media.giphy.com/media/gdNLDvhCzGBDSeDbjf/giphy.gif" width="120px"/>
-  Welcome to my page
+      <img src="https://media.giphy.com/media/gdNLDvhCzGBDSeDbjf/giphy.gif" width="120px"/>
+    Welcome to my page
   </h1>
+  
+  <div align="center">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+  </div>
+
+### :man_technologist: About Me :
 
   
 ---
