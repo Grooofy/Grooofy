@@ -3,7 +3,13 @@
    <div id="badges">
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Grooofy&style=flat-square&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Grooofy&label=PR0F1LE+V1EWS&style=plastic-square&color=blueviolet" alt=""/>
+  <h1>
+    I'm GameDeveloper
+    <img src="https://media.giphy.com/media/gdNLDvhCzGBDSeDbjf/giphy.gif" width="120px"/>
+  Welcome to my page
+  </h1>
+
   
 ---
 
