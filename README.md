@@ -1,4 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ToMjGpJZDBprh5jbWpi/giphy.gif" width="100"/>
+   <div id="badges">
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  
+---
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **Grooofy/Grooofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
