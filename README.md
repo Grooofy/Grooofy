@@ -22,10 +22,11 @@ At the moment I am a teacher, teaching children the basics of programming and ga
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
  
- 
- <div id="header" align="center">
+
  ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grooofy&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grooofy&theme=earth&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grooofy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!-- BLOG-POST-LIST:START -->
