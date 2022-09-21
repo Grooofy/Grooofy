@@ -16,8 +16,16 @@
   </div>
 
 ### :man_technologist: About Me :
+At the moment I am a teacher, teaching children the basics of programming and game design. I am also a novice Unity developer.
 
-  
+### :hammer_and_wrench: Languages and Tools :  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+ 
+ 
+ <div id="header" align="center">
+ ### :fire: My Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grooofy&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 <!-- BLOG-POST-LIST:START -->
