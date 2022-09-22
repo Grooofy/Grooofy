@@ -12,7 +12,7 @@
   </h1>
   
   <div align="center">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grooofy&theme=dracula"/>
   </div>
 
 ### :man_technologist: About Me :
