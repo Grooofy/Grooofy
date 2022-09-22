@@ -24,8 +24,6 @@ At the moment I am a teacher, teaching children the basics of programming and ga
 
  ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grooofy&theme=earth&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grooofy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Grooofy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
