@@ -2,19 +2,18 @@
   <img src="https://media.giphy.com/media/ToMjGpJZDBprh5jbWpi/giphy.gif" width="100"/>
    <div id="badges">
     </a>
-  </div>
+    </div>
   <img src="https://komarev.com/ghpvc/?username=Grooofy&label=PR0F1LE+V1EWS&style=plastic-square&color=blueviolet" alt=""/>
  </div>
+ 
   <h1 align="center">
     I'm GameDeveloper
       <img src="https://media.giphy.com/media/gdNLDvhCzGBDSeDbjf/giphy.gif" width="120px"/>
     Welcome to my page
   </h1>
+   
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grooofy&theme=nord_dark)
   
-  <div align="center">
-    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grooofy&theme=dracula"/>
-  </div>
-
 ### :man_technologist: About Me :
 At the moment I am a teacher, teaching children the basics of programming and game design. I am also a novice Unity developer.
 
@@ -24,9 +23,12 @@ At the moment I am a teacher, teaching children the basics of programming and ga
  
 
  ### :fire: My Stats :
- 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grooofy&theme=earth&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grooofy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Grooofy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 <!-- BLOG-POST-LIST:START -->
